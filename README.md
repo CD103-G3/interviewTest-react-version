@@ -1,4 +1,4 @@
 # interviewTest-react-version
 react-version
 
-use npm run open to open the developer server.
+在cmd中打上: npm run open 來開啟開發用預覽畫面.
